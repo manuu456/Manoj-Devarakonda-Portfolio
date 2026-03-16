@@ -1,0 +1,4 @@
+{
+  "github.copilot.chat.models": ["claude-sonnet-4-20250514"],
+  "github.copilot.chat.agent.enabled": true
+}
